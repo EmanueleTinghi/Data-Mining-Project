@@ -1,0 +1,4 @@
+Insert here from the raw data:
+	-)Right folder (and its subfolders Leo, Lorenzo, Carlotta, Irene)
+	-)Left folder (and its subfolders Leo, Lorenzo, Carlotta, Irene)
+	-)Centered folder (and its subfolders Leo, Lorenzo, Carlotta, Irene)
